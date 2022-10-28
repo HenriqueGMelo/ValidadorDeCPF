@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2aszNA5OKfURsbTAE07H68D5TsH2rdY7yvWH7S21jF0gqFWml0wQfrlaMN51mD5zwAYH1Szp+rrOBd8WpYNCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henrique\\Documents\\Atividades C#\\ValidadorDeCPF\\ValidadorDeCPF\\ValidadorDeCPF\\ValidadorDeCPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ValidadorDeCPF.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ValidadorDeCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ValidadorDeCPF.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ValidadorDeCPF.AssemblyInfo.cs
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ValidadorDeCPF.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\bin\Debug\net5.0\ValidadorDeCPF.exe
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\bin\Debug\net5.0\ValidadorDeCPF.deps.json
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\bin\Debug\net5.0\ValidadorDeCPF.runtimeconfig.json
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\bin\Debug\net5.0\ValidadorDeCPF.runtimeconfig.dev.json
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\bin\Debug\net5.0\ValidadorDeCPF.dll
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\bin\Debug\net5.0\ValidadorDeCPF.pdb
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ValidadorDeCPF.dll
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\refint\ValidadorDeCPF.dll
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ValidadorDeCPF.pdb
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ValidadorDeCPF.genruntimeconfig.cache
+C:\Users\Henrique\Documents\Atividades C#\ValidadorDeCPF\ValidadorDeCPF\ValidadorDeCPF\obj\Debug\net5.0\ref\ValidadorDeCPF.dll
